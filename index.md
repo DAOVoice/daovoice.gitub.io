@@ -1,6 +1,6 @@
 ## Welcome to DAOVoice 
-
-—— 中文友好的 Web3 投研社区
+  
+ ![](https://miro.medium.com/fit/c/131/131/1*vCnX8-nkjsJ1iyBg27EI1g.png) —— 中文友好的 Web3 投研社区 
 
 **由 Web3 带来的技术创新、商业变革，在越来越深入的改变这个世界。**
 诸如加密艺术、粉丝经济、**MEME**（梗）、社区自治、分布式存储，多次破圈，引来众多拥有巨大影响力的传统机构、精英人物的关注及参与。
@@ -28,7 +28,7 @@
 
 Discord：https://discord.gg/eyYeVAfNgh
 
-Snapshothttps://snapshot.org/#/daovoice.eth
+Snapshot: https://snapshot.org/#/daovoice.eth
 
 Twitter：https://twitter.com/daovoiceeth
 

@@ -33,18 +33,18 @@
 
 ## 加入 DAOVoice：
 
-Discord：https://discord.gg/eyYeVAfNgh
+Discord：[https://discord.gg/eyYeVAfNgh](https://discord.gg/eyYeVAfNgh)
 
-Snapshot: https://snapshot.org/#/daovoice.eth
+Snapshot: [https://snapshot.org/#/daovoice.eth](https://snapshot.org/#/daovoice.eth)
 
-Twitter：https://twitter.com/daovoiceeth
+Twitter：[https://twitter.com/daovoiceeth](https://twitter.com/daovoiceeth)
 
-Telegram：https://t.me/daovoice
+Telegram：[https://t.me/daovoice](https://t.me/daovoice)
 
-Medium：https://daovoice.medium.com/
+Medium：[https://daovoice.medium.com/](https://daovoice.medium.com/)
 
-Discourse：http://forum.daovoice.xyz
+Discourse：[http://forum.daovoice.xyz](http://forum.daovoice.xyz)
 
-Community：http://daovoice.xyz
+Community：[http://daovoice.xyz](http://daovoice.xyz)
 
-链接汇总：https://linktr.ee/daovoice
+链接汇总：[https://linktr.ee/daovoice](https://linktr.ee/daovoice)
